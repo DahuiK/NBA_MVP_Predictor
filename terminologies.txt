@@ -1,0 +1,28 @@
+'PLAYER_ID', 
+'SEASON_ID', 
+'LEAGUE_ID', 
+'TEAM_ID', 
+'TEAM_ABBREVIATION',
+'PLAYER_AGE', 
+'GP', Games Played
+'GS', Games Started
+'MIN', Minutes Played 
+'FGM', Field Goal Made
+'FGA', Field Goal Attempted 
+'FG_PCT', Field Goal Percentage 
+'FG3M', 3-point shots Made
+'FG3A', 3-point shots Attempted
+'FG3_PCT', 3-point Percentage
+'FTM', Free Throw Made
+'FTA', Free Throw Attempted
+'FT_PCT', Free Throw Percentage
+'OREB', Offensive Rebounds
+'DREB', Defensive Rebounds 
+'REB', Total Rebounds 
+'AST', Assists
+'STL',Steals
+'BLK', Blocked shots 
+'TOV', Turnovers 
+'PF', Personal Fould
+'PTS', Point Scored 
+'WS', Win shares -> sum of the player's marginal points/team's marginal points per win 
