@@ -1,5 +1,4 @@
-,,,,Voting,Voting,Voting,Voting,,Per Game,Per Game,Per Game,Per Game,Per Game,Per Game,Shooting,Shooting,Shooting,Advanced,Advanced,-additional
-Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,-9999
+Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Player-additional
 1,Russell Westbrook,28,OKC,69.0,888.0,1010,0.879,81,34.6,31.6,10.7,10.4,1.6,0.4,.425,.343,.845,13.1,.224,westbru01
 2,James Harden,27,HOU,22.0,753.0,1010,0.746,81,36.4,29.1,8.1,11.2,1.5,0.5,.440,.347,.847,15.0,.245,hardeja01
 3,Kawhi Leonard,25,SAS,9.0,500.0,1010,0.495,74,33.4,25.5,5.8,3.5,1.8,0.7,.485,.380,.880,13.6,.264,leonaka01
