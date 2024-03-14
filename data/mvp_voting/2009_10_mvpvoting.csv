@@ -1,5 +1,4 @@
-,,,,Voting,Voting,Voting,Voting,,Per Game,Per Game,Per Game,Per Game,Per Game,Per Game,Shooting,Shooting,Shooting,Advanced,Advanced,-additional
-Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,-9999
+Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Player-additional
 1,LeBron James,25,CLE,116.0,1205.0,1230,0.980,76,39.0,29.7,7.3,8.6,1.6,1.0,.503,.333,.767,18.5,.299,jamesle01
 2,Kevin Durant,21,OKC,4.0,609.0,1230,0.495,82,39.5,30.1,7.6,2.8,1.4,1.0,.476,.365,.900,16.1,.238,duranke01
 3,Kobe Bryant,31,LAL,0.0,599.0,1230,0.487,73,38.8,27.0,5.4,5.0,1.5,0.3,.456,.329,.811,9.4,.160,bryanko01

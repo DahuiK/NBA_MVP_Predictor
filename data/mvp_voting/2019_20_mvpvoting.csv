@@ -1,5 +1,4 @@
-,,,,Voting,Voting,Voting,Voting,,Per Game,Per Game,Per Game,Per Game,Per Game,Per Game,Shooting,Shooting,Shooting,Advanced,Advanced,-additional
-Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,-9999
+Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Player-additional
 1,Giannis Antetokounmpo,25,MIL,85.0,962.0,1010,0.952,63,30.4,29.5,13.6,5.6,1.0,1.0,.553,.304,.633,11.1,.279,antetgi01
 2,LeBron James,35,LAL,16.0,753.0,1010,0.746,67,34.6,25.3,7.8,10.2,1.2,0.5,.493,.348,.693,9.8,.204,jamesle01
 3,James Harden,30,HOU,0.0,367.0,1010,0.363,68,36.5,34.3,6.6,7.5,1.8,0.9,.444,.355,.865,13.1,.254,hardeja01

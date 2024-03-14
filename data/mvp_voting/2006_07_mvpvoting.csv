@@ -1,5 +1,4 @@
-,,,,Voting,Voting,Voting,Voting,,Per Game,Per Game,Per Game,Per Game,Per Game,Per Game,Shooting,Shooting,Shooting,Advanced,Advanced,-additional
-Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,-9999
+Rank,Player,Age,Tm,First,Pts Won,Pts Max,Share,G,MP,PTS,TRB,AST,STL,BLK,FG%,3P%,FT%,WS,WS/48,Player-additional
 1,Dirk Nowitzki,28,DAL,83.0,1138.0,1290,0.882,78,36.2,24.6,8.9,3.4,0.7,0.8,.502,.416,.904,16.3,.278,nowitdi01
 2,Steve Nash,32,PHO,44.0,1013.0,1290,0.785,76,35.3,18.6,3.5,11.6,0.8,0.1,.532,.455,.899,12.6,.225,nashst01
 3,Kobe Bryant,28,LAL,2.0,521.0,1290,0.404,77,40.8,31.6,5.7,5.4,1.4,0.5,.463,.344,.868,13.0,.199,bryanko01
