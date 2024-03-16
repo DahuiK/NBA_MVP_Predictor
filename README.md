@@ -4,8 +4,4 @@ The aim of this project is to develop a Linear Regression model with the ability
 
 ## NBA api
 
-To create this project, we are leveraging data and player statistics from the [npa_api](https://github.com/swar/nba_api)
-
-```bash
-pip install nba_api
-```
+To create this project, we are leveraging data and player statistics from the [basketball-reference](https://www.basketball-reference.com/)
