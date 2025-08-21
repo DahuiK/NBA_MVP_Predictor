@@ -7,4 +7,4 @@ The aim of this project is to develop a Linear Regression model with the ability
 To create this project, we are leveraging data and player statistics from the [basketball-reference](https://www.basketball-reference.com/)
 
 ## Application
-[▶ Live App](https://<your-streamlit-or-hf-url>)
+[▶ Live App]([https://<your-streamlit-or-hf-url>](https://dahuik-nba-mvp-predictor-app-kzmgdm.streamlit.app/))
