@@ -5,3 +5,6 @@ The aim of this project is to develop a Linear Regression model with the ability
 ## NBA Data
 
 To create this project, we are leveraging data and player statistics from the [basketball-reference](https://www.basketball-reference.com/)
+
+## Application
+[▶ Live App](https://<your-streamlit-or-hf-url>)
